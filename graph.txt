@@ -1,0 +1,16 @@
+NewYork Hartford 1
+NewYork Boston 4
+NewYork Atlanta 3
+Hartford Atlanta 2
+Hartford Boston 1
+Boston Chicago 6
+Chicago NewYork 4
+Atlanta Miami 3
+Miami Dallas 5
+Dallas Chicago 5
+Dallas LasVegas 2
+Dallas LosAngeles 4
+LasVegas Chicago 3
+LasVegas LosAngeles 1
+LosAngeles SanFrancisco 3
+SanFrancisco Chicago 8 
